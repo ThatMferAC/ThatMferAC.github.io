@@ -1,3 +1,3 @@
-# ThatMferAC.github.io
+# ThatMferAC
 
 <p><a href-"/BasicWebDesign-CourseWork/ACM-NEWS.html" target-"blank">ACM-NEWS</a></p>
