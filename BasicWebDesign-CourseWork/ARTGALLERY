@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+ <html>
+    <head>
+    <title>The AC Art Gallary</title>
+    </head>
+
+<body>
+    <h1>AC'S Art! (my art)</h1>
+    <p> <img src="art_stuff/AC_zoning_out.jpg" alt="no thoughts head empty" height="365px"> 
+
+    <img src="art_stuff/Fearless.jpg" alt="A symbol from a videogame I played" height="365px"> 
+
+    <img src="art_stuff/AC.jpg" alt="An earlier version of AC" height="365px">
+
+    <img src="art_stuff/initials.jpg" alt="my signature" height="300px">
+    </p>
+</body>    
+ </html>
